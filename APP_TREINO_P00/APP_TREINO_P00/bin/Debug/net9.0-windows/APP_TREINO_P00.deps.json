@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "APP_TREINO_P00/1.0.0": {
+        "runtime": {
+          "APP_TREINO_P00.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APP_TREINO_P00/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
